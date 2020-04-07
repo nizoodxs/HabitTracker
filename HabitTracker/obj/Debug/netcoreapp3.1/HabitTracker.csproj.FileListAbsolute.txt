@@ -1,0 +1,13 @@
+F:\repo's\HabitTracker\HabitTracker\bin\Debug\netcoreapp3.1\HabitTracker.exe
+F:\repo's\HabitTracker\HabitTracker\bin\Debug\netcoreapp3.1\HabitTracker.deps.json
+F:\repo's\HabitTracker\HabitTracker\bin\Debug\netcoreapp3.1\HabitTracker.runtimeconfig.json
+F:\repo's\HabitTracker\HabitTracker\bin\Debug\netcoreapp3.1\HabitTracker.runtimeconfig.dev.json
+F:\repo's\HabitTracker\HabitTracker\bin\Debug\netcoreapp3.1\HabitTracker.dll
+F:\repo's\HabitTracker\HabitTracker\bin\Debug\netcoreapp3.1\HabitTracker.pdb
+F:\repo's\HabitTracker\HabitTracker\obj\Debug\netcoreapp3.1\HabitTracker.csprojAssemblyReference.cache
+F:\repo's\HabitTracker\HabitTracker\obj\Debug\netcoreapp3.1\HabitTracker.csproj.CoreCompileInputs.cache
+F:\repo's\HabitTracker\HabitTracker\obj\Debug\netcoreapp3.1\HabitTracker.AssemblyInfoInputs.cache
+F:\repo's\HabitTracker\HabitTracker\obj\Debug\netcoreapp3.1\HabitTracker.AssemblyInfo.cs
+F:\repo's\HabitTracker\HabitTracker\obj\Debug\netcoreapp3.1\HabitTracker.dll
+F:\repo's\HabitTracker\HabitTracker\obj\Debug\netcoreapp3.1\HabitTracker.pdb
+F:\repo's\HabitTracker\HabitTracker\obj\Debug\netcoreapp3.1\HabitTracker.genruntimeconfig.cache
